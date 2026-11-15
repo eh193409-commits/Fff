@@ -1,0 +1,6 @@
+{
+  "name": "Sara AI",
+  "description": "Sara AI voice assistant featuring a real Smart Smartphone Control System for app launching, accessibility automation, quick settings, flashlight, volume, brightness, and system telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

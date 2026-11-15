@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sara AI</string>
+    <string name="accessibility_service_label">Sara Smart Control Automation</string>
+    <string name="accessibility_service_description">Allows Sara AI to perform user-requested clicks, scrolling, swiping, back/home navigation, and open Quick Settings or Notifications only when you explicitly command her. Sara never monitors screens in the background.</string>
+    <string name="nav_sara_voice">Sara Voice</string>
+    <string name="nav_smart_control">Smart Control</string>
+    <string name="nav_memory">Memory</string>
+    <string name="smart_control_header">SMART SMARTPHONE CONTROL</string>
+    <string name="firebase_notice_banner">Cloud Gemini chat requires Firebase setup. All Smart Smartphone Control commands, voice recognition, speech, and long-term memory run locally on your device.</string>
+</resources>
